@@ -8,13 +8,17 @@
 ## Projects
 ### Identifying and Proactively Addressing Potential Churn Customers
 
-<a href="https://colab.research.google.com/drive/1J0rIb2cC-ODvC-nZJoO7bAAx7wsbEBHl?usp=sharing">
-  <img src="https://img.shields.io/badge/Google%20Colab-Open-blueviolet" alt="Google Colab">
-</a>
+<div style="display: inline-block">
+  <a href="https://colab.research.google.com/drive/1J0rIb2cC-ODvC-nZJoO7bAAx7wsbEBHl?usp=sharing">
+    <img src="https://img.shields.io/badge/Google%20Colab-Open-blueviolet" alt="Google Colab">
+  </a>
+</div>
 
-<a href="https://huggingface.co/spaces/recognize96/P1M2">
-  <img src="https://img.shields.io/badge/Huggingface-Open-blue" alt="Huggingface">
-</a>
+<div style="display: inline-block">
+  <a href="https://huggingface.co/spaces/recognize96/P1M2">
+    <img src="https://img.shields.io/badge/Huggingface-Open-blue" alt="Huggingface">
+  </a>
+</div>
 
 The primary objective of this analysis is to identify and predict potential churn customers who may discontinue using the service. By leveraging predictive modeling techniques, the company can proactively address churn possibilities, facilitating targeted efforts to retain at-risk customers. The Decision Tree model obtained from the analysis showcases exceptional performance, delivering reliable predictions with a remarkable confidence level of 0.997294. With such precision, businesses gain valuable insights to make informed decisions on customer retention, resource allocation, and the implementation of more effective marketing strategies.
 
@@ -60,6 +64,18 @@ In this study, we endeavor to predict potential occurrences of credit card payme
 </table>
 
 ### Data Analysis on Adidas Sales to Find Trend and Insight
+
+<div style="display: inline-block">
+  <a href="https://colab.research.google.com/drive/1wHVX_-a2EONiUeyNmMsUHNIPnG3UzPG0?usp=sharing">
+    <img src="https://img.shields.io/badge/Google%20Colab-Open-blueviolet" alt="Google Colab">
+  </a>
+</div>
+
+<div style="display: inline-block">
+  <a href="https://public.tableau.com/app/profile/muhammad.aji.satrio.wiyogo/viz/Book1_16874367888560/Main?publish=yes">
+    <img src="https://img.shields.io/badge/Tableau-Open-blue" alt="Tableau">
+  </a>
+</div>
 
 Using Python, I am conducting an insightful analysis of Adidas Sales, gaining valuable insights, performing intricate calculations, and applying essential statistical concepts. Additionally, I developed an interactive dashboard using Tableau to enhance data visualization and present my findings more effectively. Throughout this project, my focus was on identifying significant trends and patterns in Adidas Sales, enabling me to make data-driven decisions for strategic sales development. By maintaining high-performing sales trends and capitalizing on opportunities to expand into potential cities, I aimed to drive sales growth and foster business expansion in the retail sector.
 
