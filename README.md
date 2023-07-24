@@ -27,9 +27,15 @@ In this study, we endeavor to predict potential occurrences of credit card payme
 ### Data Analysis on Adidas Sales to Find Trend and Insight
 [Notebook](https://github.com/AjisatrioW96/Milestone1)
 
+<<<<<<< HEAD
 Using Python, I am conducting an insightful analysis of Adidas Sales, gaining valuable insights, performing intricate calculations, and applying essential statistical concepts. Additionally, I developed an interactive dashboard using Tableau to enhance data visualization and present my findings more effectively. Throughout this project, my focus was on identifying significant trends and patterns in Adidas Sales, enabling me to make data-driven decisions for strategic sales development. By maintaining high-performing sales trends and capitalizing on opportunities to expand into potential cities, I aimed to drive sales growth and foster business expansion in the retail sector.
 
 ![images1](/assets/milestone1/Main.png)
 
+=======
+Using Python,im doing an insightful analysis of Adidas Sales, gaining valuable insights, performing intricate calculations, and applying essential statistical concepts. Additionally, we developed an interactive dashboard using Tableau to enhance data visualization and present our findings more effectively. Throughout this project, our focus was on identifying significant trends and patterns in Adidas Sales, enabling us to make data-driven decisions for strategic sales development. By maintaining high-performing sales trends and capitalizing on opportunities to expand into potential cities, we aimed to drive sales growth and foster business expansion in the retail sector.
+
+![EEG Band Discovery](/assets/milestone1/Main.png)
+>>>>>>> 3c03670305d275bb46c9b6eb3fac8f2520b4f068
 
 
