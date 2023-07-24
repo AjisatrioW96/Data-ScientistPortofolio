@@ -18,7 +18,6 @@ The primary objective of this analysis is to identify and predict potential chur
   </tr>
 </table>
 
-![Picture 6](/assets/milestone4/pic1.png) | ![Picture 7](/assets/milestone4/pic2.png) 
 
 ### Segmenting Credit Card Users for Targeted Marketing Strategies: An Analysis using K-Means Algorithm"
 [Notebook](https://github.com/AjisatrioW96/Milestone3)
@@ -29,10 +28,9 @@ Based on the analysis results, almost all customers have a tenure of 12 months. 
   <tr>
     <td><img src="/assets/milestone3/picture1.png" alt="Picture 4" width="200"></td>
     <td><img src="/assets/milestone3/picture2.png" alt="Picture 5" width="200"></td> 
-
   </tr>
 </table>
-![Picture 4](/assets/milestone3/pic1.png) | ![Picture 5](/assets/milestone3/pic2.png)
+
 
 ### Predictive Analysis of Credit Card Payment Delays and Defaults using Machine Learning Algorithms
 [Notebook](https://github.com/AjisatrioW96/Milestone2)
@@ -42,15 +40,13 @@ In this study, we endeavor to predict potential occurrences of credit card payme
 <table>
   <tr>
     <td><img src="/assets/milestone2/picture1.png" alt="Picture 1" width="200"></td>
-    <td><img src="/assets/milestone2/picture2.png" alt="Picture 2" width="200"></td> 
+    <td><img src="/assets/milestone2/picture2.png" alt="Picture 2" width="200"></td>
     <td><img src="/assets/milestone2/picture3.png" alt="Picture 3" width="200"></td>
   </tr>
 </table>
 
 ### Data Analysis on Adidas Sales to Find Trend and Insight
-[Notebook](https://github.com/AjisatrioW96/Milestone1)
 
-<<<<<<< HEAD
 Using Python, I am conducting an insightful analysis of Adidas Sales, gaining valuable insights, performing intricate calculations, and applying essential statistical concepts. Additionally, I developed an interactive dashboard using Tableau to enhance data visualization and present my findings more effectively. Throughout this project, my focus was on identifying significant trends and patterns in Adidas Sales, enabling me to make data-driven decisions for strategic sales development. By maintaining high-performing sales trends and capitalizing on opportunities to expand into potential cities, I aimed to drive sales growth and foster business expansion in the retail sector.
 
 ![images1](/assets/milestone1/Main.png)
