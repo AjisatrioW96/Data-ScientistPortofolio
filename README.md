@@ -15,8 +15,8 @@ The primary objective of this analysis is to identify and predict potential chur
 
 <table>
   <tr>
-    <td><img src="/assets/milestone4/pic1.png" alt="Picture 6" width="200"></td>
-    <td><img src="/assets/milestone4/pic2.png" alt="Picture 7" width="200"></td> 
+    <td><img src="assets/milestone4/pic1.png" alt="Picture 6" width="200"></td>
+    <td><img src="assets/milestone4/pic2.png" alt="Picture 7" width="200"></td> 
   </tr>
 </table>
 
@@ -29,8 +29,8 @@ Based on the analysis results, almost all customers have a tenure of 12 months. 
 
 <table>
   <tr>
-    <td><img src="/assets/milestone3/pic1.png" alt="Picture 4" width="200"></td>
-    <td><img src="/assets/milestone3/pic2.png" alt="Picture 5" width="200"></td> 
+    <td><img src="assets/milestone3/pic1.png" alt="Picture 4" width="200"></td>
+    <td><img src="assets/milestone3/pic2.png" alt="Picture 5" width="200"></td> 
   </tr>
 </table>
 
@@ -42,9 +42,9 @@ In this study, we endeavor to predict potential occurrences of credit card payme
 
 <table>
   <tr>
-    <td><img src="/assets/milestone2/pic1.png" alt="Picture 1" width="200"></td>
-    <td><img src="/assets/milestone2/pic2.png" alt="Picture 2" width="200"></td>
-    <td><img src="/assets/milestone2/pic3.png" alt="Picture 3" width="200"></td>
+    <td><img src="assets/milestone2/pic1.png" alt="Picture 1" width="200"></td>
+    <td><img src="assets/milestone2/pic2.png" alt="Picture 2" width="200"></td>
+    <td><img src="assets/milestone2/pic3.png" alt="Picture 3" width="200"></td>
   </tr>
 </table>
 
