@@ -15,8 +15,8 @@ The primary objective of this analysis is to identify and predict potential chur
 
 <table>
   <tr>
-    <td><img src="/assets/milestone4/pic1.png" alt="Picture 6" width="200"></td>
-    <td><img src="/assets/milestone4/pic2.png" alt="Picture 7" width="200"></td> 
+    <td><img src="assets/milestone4/pic1.png" alt="Picture 6" width="200"></td>
+    <td><img src="assets/milestone4/pic2.png" alt="Picture 7" width="200"></td> 
   </tr>
 </table>
 
