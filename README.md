@@ -6,7 +6,7 @@
 - Electrical Engineering Bachelors | Institut Teknologi PLN (_November 2021_)
 
 ## Projects
-### Identifying and Proactively Addressing Potential Churn Customers
+### Customer Churn Prediction using ANN
 
 <div style="display: inline-block">
   <a href="https://github.com/AjisatrioW96/Portofolio/tree/main/Customer%20Churn%20Prediction%20using%20ANN">
