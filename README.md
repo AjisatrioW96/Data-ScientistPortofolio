@@ -9,18 +9,18 @@
 ### Identifying and Proactively Addressing Potential Churn Customers
 
 <div style="display: inline-block">
-  <a href="https://colab.research.google.com/drive/1J0rIb2cC-ODvC-nZJoO7bAAx7wsbEBHl?usp=sharing">
-    <img src="https://img.shields.io/badge/Google%20Colab-Open-blueviolet" alt="Google Colab">
+  <a href="https://github.com/AjisatrioW96/Portofolio/tree/main/Customer%20Churn%20Prediction%20using%20ANN">
+    <img src="https://img.shields.io/badge/GitHub%20Pages-Open-blueviolet" alt="GitHub Pages">
   </a>
 </div>
 
 <div style="display: inline-block">
-  <a href="https://huggingface.co/spaces/recognize96/P1M2">
+  <a href="https://huggingface.co/spaces/recognize96/ChurnRiskCustomer_Prediction">
     <img src="https://img.shields.io/badge/Huggingface-Open-blue" alt="Huggingface">
   </a>
 </div>
 
-The primary objective of this analysis is to identify and predict potential churn customers who may discontinue using the service. By leveraging predictive modeling techniques, the company can proactively address churn possibilities, facilitating targeted efforts to retain at-risk customers. The Decision Tree model obtained from the analysis showcases exceptional performance, delivering reliable predictions with a remarkable confidence level of 0.997294. With such precision, businesses gain valuable insights to make informed decisions on customer retention, resource allocation, and the implementation of more effective marketing strategies.
+The primary objective of this analysis is to identify and predict potential churn customers who may discontinue using the service. Leveraged ANN models to predict customer churn, achieving 92% accuracy using Functional API. Identified actionable insights for effective strategy development based on factors like transaction amounts, point wallet balances, membership status, and feedback.
 
 <table>
   <tr>
@@ -32,8 +32,8 @@ The primary objective of this analysis is to identify and predict potential chur
 
 ### Segmenting Credit Card Users for Targeted Marketing Strategies: An Analysis using K-Means Algorithm"
 
-<a href="https://colab.research.google.com/drive/1YG4iqpcf4BUwNNBq6pygX-xN3IoIvq6Z?usp=sharing">
-  <img src="https://img.shields.io/badge/Google%20Colab-Open-blueviolet" alt="Google Colab">
+<a href="https://github.com/AjisatrioW96/Portofolio/tree/main/Segmenting%20Credit%20Card%20Users%20for%20Targeted%20Marketing%20Strategies">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-Open-blueviolet" alt="GitHub Pages">
 </a>
 
 This analysis serves as a valuable tool for the bank to develop targeted marketing strategies by gaining insights into distinct credit card user profiles. By employing the K-Means algorithm for segmentation, the bank can effectively identify and group customers with similar credit card usage patterns, enabling more personalized and tailored marketing approaches.
@@ -49,8 +49,8 @@ Based on the analysis results, almost all customers have a tenure of 12 months. 
 
 ### Predictive Analysis of Credit Card Payment Delays and Defaults using Machine Learning Algorithms
 
-<a href="https://colab.research.google.com/drive/1P6s0xvZuo-f3V0A-T7vBsBfigzojxnxO?usp=sharing">
-  <img src="https://img.shields.io/badge/Google%20Colab-Open-blueviolet" alt="Google Colab">
+<a href="https://github.com/AjisatrioW96/Portofolio/tree/main/Predictive%20Analysis%20of%20Credit%20Card%20Payment%20Defaults%20using%20Machine%20Learning%20Algorithms">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-Open-blueviolet" alt="GitHub Pages">
 </a>
 
 In this study, we endeavor to predict potential occurrences of credit card payment delays or defaults in the upcoming month. Leveraging available credit card data, we will employ diverse algorithms such as Logistic Regression, SVM, Decision Tree, Random Forest, KNN, Naive Bayes, and others to construct predictive models. Subsequently, we will utilize cross-validation to compare the performance of these algorithms and conduct hyperparameter tuning to optimize the selected model's predictive capabilities. Based on the analysis of various algorithms, the Logistic Regression algorithm demonstrated the best performance with a mean accuracy of 0.82% in cross-validation. It outperformed other algorithms in the evaluation of the models.
@@ -66,8 +66,8 @@ In this study, we endeavor to predict potential occurrences of credit card payme
 ### Data Analysis on Adidas Sales to Find Trend and Insight
 
 <div style="display: inline-block">
-  <a href="https://colab.research.google.com/drive/1wHVX_-a2EONiUeyNmMsUHNIPnG3UzPG0?usp=sharing">
-    <img src="https://img.shields.io/badge/Google%20Colab-Open-blueviolet" alt="Google Colab">
+  <a href="https://github.com/AjisatrioW96/Portofolio/tree/main/Data%20Analysis%20on%20Adidas%20Sales%20to%20Find%20Trend%20and%20Insights">
+    <img src="https://img.shields.io/badge/GitHub%20Pages-Open-blueviolet" alt="GitHub Pages">
   </a>
 </div>
 
